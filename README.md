@@ -91,9 +91,9 @@ Shows date-wise total
 2025-01-20 | ₹250 | Food | Lunch
 2025-01-21 | ₹1200 | Travel | Bus Pass
 ```
-
+```
 Total Spent: ₹1450
-
+```
 🎯 Learning Outcomes
 ```
 Python file handling
