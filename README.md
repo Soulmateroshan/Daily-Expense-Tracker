@@ -61,42 +61,57 @@ After running the program, you will see this menu:
 
 
 ➕ Add Expense
+```
 Enter date (YYYY-MM-DD)
 Enter amount
 Enter category (Food, Travel, Shopping, etc.)
 Add a short note
+```
 
 📄 View All Expenses
+```
 Displays all saved expenses
 Shows total money spent
+```
 
 🗂 Filter by Category
+```
 Displays expenses of a specific category
 Shows category-wise total
+```
 
 📅 Filter by Date
+```
 Displays expenses for a specific date
 Shows date-wise total
+```
 
 📌 Sample Output
+```
 2025-01-20 | ₹250 | Food | Lunch
 2025-01-21 | ₹1200 | Travel | Bus Pass
+```
 
 Total Spent: ₹1450
 
 🎯 Learning Outcomes
+```
 Python file handling
 CSV data management
 Functions & loops
 CLI-based application design
 User input handling
+```
 
 🔮 Future Enhancements
+```
 Date & amount validation
 Monthly expense summary
 Graphical (GUI) version
 Web-based version
-
+```
 👨‍💻 Author
+```
 Roshan Khodape
 Python Beginner | CLI Project
+```
