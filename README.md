@@ -42,7 +42,7 @@ Expense-Tracker/
    ```bash
    git clone https://github.com/RoshanKhodape/Daily-Expense-Tracker.git
 2.Open the project folder:
-cd expense-tracker
+cd Daily-Expense-Tracker
 
 3.Run the program:
 python demo.py
