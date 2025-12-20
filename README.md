@@ -27,13 +27,14 @@ All data is stored securely in a CSV file.
 
 ## 📂 Project Structure
 
+```text
 Expense-Tracker/
 │
-├── demo.py # Main Python file
-├── expenses.csv # Auto-created expense storage file
-└── README.md # Project documentation
+├── demo.py        # Main Python file
+├── expenses.csv   # Auto-created expense storage file
+└── README.md      # Project documentation
+```
 
----
 
 ## ▶️ How to Run the Project
 
