@@ -116,4 +116,4 @@ Total Spent: ₹1450
 # 👨‍💻 Author
 
 Roshan Khodape
-Python Beginner | CLI Project
+**Python Beginner | CLI Project**
