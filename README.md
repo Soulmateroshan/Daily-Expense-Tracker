@@ -51,8 +51,7 @@ python demo.py
 
 ---
 
-📖 How the Program Works
-After running the program, you will see this menu:
+## 📖 After running the program, you will see this menu:
 
 ====== Expense Tracker ======
 1. Add Expense
@@ -97,22 +96,24 @@ Shows date-wise total
 Total Spent: ₹1450
 ```
 ---
-🎯 Learning Outcomes
+## 🎯 Learning Outcomes
 
 - Python file handling
 - CSV data management
 - Functions & loops
 - CLI-based application design
 - User input handling
+
 ---
-🔮 Future Enhancements
+
+## 🔮 Future Enhancements
 
 - Date & amount validation
 - Monthly expense summary
 - Graphical User Interface (GUI) version
 - Web-based version
 ---
-👨‍💻 Author
+# 👨‍💻 Author
 
 Roshan Khodape
 Python Beginner | CLI Project
