@@ -49,6 +49,8 @@ python demo.py
 
 ⚠️ Make sure Python 3 is installed on your system.
 
+---
+
 📖 How the Program Works
 After running the program, you will see this menu:
 
