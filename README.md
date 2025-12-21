@@ -97,21 +97,26 @@ Total Spent: ₹1450
 🎯 Learning Outcomes
 
 Python file handling
-CSV data management
-Functions & loops
-CLI-based application design
-User input handling
 
+CSV data management
+
+Functions & loops
+
+CLI-based application design
+
+User input handling
 
 🔮 Future Enhancements
 
 Date & amount validation
+
 Monthly expense summary
-Graphical (GUI) version
+
+Graphical User Interface (GUI) version
+
 Web-based version
 
 👨‍💻 Author
 
 Roshan Khodape
 Python Beginner | CLI Project
-
