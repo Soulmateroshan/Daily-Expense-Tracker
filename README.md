@@ -114,11 +114,5 @@ Total Spent: ₹1450
 - Web-based version
 ---
 # 👨‍💻 Author
-
-**Roshan Khodape**.
-**Python Beginner | CLI Project**
-
-
-A simple **Command-Line Interface (CLI) Expense Tracker** built using **Python**.  
-This application allows users to add daily expenses, view all records, and filter expenses by **date** or **category**.  
-All data is stored securely in a CSV file.
+*Roshan Khodape*
+Python Beginner | CLI Project
